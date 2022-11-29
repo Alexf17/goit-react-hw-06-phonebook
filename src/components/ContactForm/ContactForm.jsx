@@ -1,5 +1,5 @@
 import { getContacts } from 'redux/selectors';
-import { addContacts } from 'redux/contactsSlice';
+import { addContacts } from 'redux/slices/contactsSlice';
 
 import {
   Wrap,

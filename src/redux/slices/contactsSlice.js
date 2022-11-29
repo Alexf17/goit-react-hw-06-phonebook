@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit';
 
 import { nanoid } from 'nanoid';
 
-import { phoneBook } from '../constants/contactsBase';
+import { phoneBook } from '../../constants/contactsBase';
 
 const contactsInitialState = phoneBook;
 
